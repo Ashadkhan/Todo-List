@@ -14,8 +14,8 @@ body{
 {
     
     height: 50%;
-    width: 25rem;
-    /* margin: 2rem; */
+    width: 70%;
+    margin: 2rem;
     padding-left:0.5rem;
     padding-right:0.8rem;
     padding-bottom:0.8rem;
@@ -44,9 +44,9 @@ body{
 }
 .contaner{
     height: 50%;
-    width: 25rem;
+    width: 70%;
     position: absolute;
-    /* margin: 2rem; */
+    margin: 2rem;
     color: white;
     padding-left:3px;
     padding-right:3px;
